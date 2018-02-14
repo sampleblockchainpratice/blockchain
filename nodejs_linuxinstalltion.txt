@@ -1,0 +1,12 @@
+9.3.0
+
+
+sudo -i
+apt-get update
+apt-get install git
+git clone git://github.com/creationix/nvm.git ~/nvm
+
+. ~/nvm/nvm.sh
+nvm install 8.9.4
+nvm use 8.9.4
+nvm alias default 8.9.4

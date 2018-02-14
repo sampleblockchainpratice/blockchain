@@ -1,0 +1,1 @@
+console.log(euler1(13195));

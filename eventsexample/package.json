@@ -1,0 +1,20 @@
+{
+  "name": "eventsexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.2",
+    "generator-webapp": "^3.0.1",
+    "gulp-cli": "^2.0.1",
+    "isprime": "latest"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

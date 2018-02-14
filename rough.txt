@@ -1,0 +1,56 @@
+
+let number =1423
+
+revnumbe=0
+q=number =1423
+while q>0
+r=number%10
+q=number/10
+revnumber=revnumber*10+r
+number=q
+
+end-while
+
+
+
+
+then
+fib=num+fib
+fib%2==0 then sum=fib+sum
+
+num end 4000000
+
+
+
+let number =1423
+revnumbe=0
+for( i=0;i<=number.length;i++)
+r=number%10
+q=number/10
+revnumber=revnumber*10+r
+number=q
+end
+
+let x =999
+let y=999
+number=x*y
+revnumbe=number
+for( i=0;i<=number.length;i++)
+r=number%10
+q=number/10
+revnumber=revnumber*10+r
+
+
+
+
+
+
+<head>
+<script type="text/javascript" src="script.js"> </script>
+</head>
+<body>
+  <h1> Welcome To Programming </h1>
+</body>
+
+number=q
+end-for
