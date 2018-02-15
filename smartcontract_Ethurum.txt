@@ -1,0 +1,15 @@
+smart contract:
+-solidity
+-parity
+-lll
+
+
+frontend:
+HTML
+JS:web3js
+
+
+Oracilize: to pull realtime data
+
+Etherum client:geth->go language
+
